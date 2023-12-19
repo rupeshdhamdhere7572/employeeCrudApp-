@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 11,
+      "firstName": "Rupesh",
+      "lastName": "Dhamdhere ",
+      "email": "rupesh123@gmail.com ",
+      "mobile": "88998983556",
+      "salary": "$700"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
